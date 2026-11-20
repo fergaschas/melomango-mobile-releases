@@ -9,6 +9,9 @@ Aquí solo están los APK; el código vive en un repositorio privado.
 2. Ábrelo en el móvil. Android pedirá permiso para instalar apps desde esa aplicación (el navegador o
    Archivos): concédelo y pulsa **Instalar**.
 
+Como el APK no viene de Play Store, **Play Protect** puede avisar de que no conoce al desarrollador («Aplicación
+bloqueada para proteger tu dispositivo»). Para seguir: **Más detalles → Instalar de todas formas**.
+
 Necesita Android 8.0 o posterior.
 
 ## Actualizaciones
