@@ -1,5 +1,9 @@
 # Melomango para Android
 
+> **Este repositorio ya no se actualiza.** Las versiones nuevas de Melomango para Android están en el
+> [catálogo de descargas](https://fergaschas.github.io/apps). Las versiones instaladas desde aquí se actualizan
+> solas a la 0.1.2 y, desde ella, siguen recibiendo las nuevas desde el catálogo.
+
 Versiones de **Melomango** para Android: el reproductor de música en streaming gratuito, sin pagar ni un mango.
 Aquí solo están los APK; el código vive en un repositorio privado.
 
